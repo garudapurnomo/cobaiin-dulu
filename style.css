@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-body{
-color:red;
-background-color:blue;
-font:100px;
-}
-=======
-body {
-    color: white;
-    background-color: pink;
-}
->>>>>>> mengubah color dan background
+ body {
+     color: red;
+     background-color: blue;
+     font: 100px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
